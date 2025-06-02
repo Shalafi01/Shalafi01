@@ -39,11 +39,11 @@ This is a simple Java Swing application designed to help you quickly clean up an
 👉 [repository](https://github.com/Shalafi01/java-quickTextEdit)
 <br><br>  
 ### 🌐 Web Apps
-js-checklist
+js-checklist  
 A simple checklist web app built with HTML, CSS, and JavaScript.  
 👉 [repository](https://github.com/Shalafi01/js-checklist)
 <br><br>  
-js-motherboard
+js-motherboard  
 An interactive view helpful to understand and get to know a motherboard in all of its parts.  
 👉 [repository](https://github.com/Shalafi01/js-motherboard)
 <br><br>  
