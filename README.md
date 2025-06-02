@@ -4,7 +4,7 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
 # 🔧 Main Projects
 
 ## 🛡️ Encrypted Messenger (Java)
-Client-server chat application with AES, DES, and 3DES encryption.
+Client-server chat application with AES, DES, and 3DES encryption.  
 👉 [repository](https://github.com/andrea97/encrypted-messenger-java)
 
 # 🔧 Other projects
