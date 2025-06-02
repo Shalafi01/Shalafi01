@@ -4,15 +4,15 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
 # 🔧 Main Projects
 
 ## 🎬 Movie Database (Web App)
-This project allows users to browse and search for movies in a clean, responsive interface.
+This project allows users to browse and search for movies in a clean, responsive interface.  
 👉 [repository](https://github.com/Shalafi01/php-MovieDatabase)
 
 ## 🧑‍💼 Seasonal Worker Management (JavaFX)
-This project implements a system for managing and searching seasonal workers.
+This project implements a system for managing and searching seasonal workers.  
 👉 [repository](https://github.com/Shalafi01/javafx-TalentView)
 
 ## 🎴 Briscola app (Java)
-This Java Swing application lets you play a fully functional game of Briscola, a classic Italian card game.
+This Java Swing application lets you play a fully functional game of Briscola, a classic Italian card game.  
 👉 [repository](https://github.com/Shalafi01/java-Briscola/tree/main)
 
 ## 🛡️ Encrypted Messenger (Java)
@@ -52,7 +52,7 @@ An interactive view helpful to understand and get to know a motherboard in all o
 ## 🧩 C#
 
 ### csharp-ContactBook
-A simple console-based Contacts application written in C#.
+A simple console-based Contacts application written in C#.  
 👉 [repository](https://github.com/Shalafi01/csharp-ContactBook)
 
 ---
