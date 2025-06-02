@@ -27,7 +27,7 @@ This Java Swing application helps you quickly find differences between the files
 This is a simple Java Swing application designed to help you quickly clean up and format text.  
 👉 [repository](https://github.com/Shalafi01/java-quickTextEdit)
 
-## 🌐 Web App
+## 🌐 Web Apps
 
 ### js-checklist
 A simple checklist web app built with HTML, CSS, and JavaScript.  
