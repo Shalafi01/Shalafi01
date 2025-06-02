@@ -3,19 +3,19 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
 
 # 🔧 Main Projects
 
-## 🎬 Movie Database (Web App)
+🎬 Movie Database (Web App)  
 This project allows users to browse and search for movies in a clean, responsive interface.  
 👉 [repository](https://github.com/Shalafi01/php-MovieDatabase)
 
-## 🧑‍💼 Seasonal Worker Management (JavaFX)
+🧑‍💼 Seasonal Worker Management (JavaFX)  
 This project implements a system for managing and searching seasonal workers.  
 👉 [repository](https://github.com/Shalafi01/javafx-TalentView)
 
-## 🎴 Briscola app (Java)
+🎴 Briscola app (Java)  
 This Java Swing application lets you play a fully functional game of Briscola, a classic Italian card game.  
 👉 [repository](https://github.com/Shalafi01/java-Briscola/tree/main)
 
-## 🛡️ Encrypted Messenger (Java)
+🛡️ Encrypted Messenger (Java)  
 Client-server chat application with AES, DES, and 3DES encryption.  
 👉 [repository](https://github.com/andrea97/encrypted-messenger-java)
 
