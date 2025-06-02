@@ -6,7 +6,7 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
 🎬 Movie Database (Web App)  
 This project allows users to browse and search for movies in a clean, responsive interface.  
 👉 [repository](https://github.com/Shalafi01/php-MovieDatabase)
-<be><be>  
+<br><br>  
 🧑‍💼 Seasonal Worker Management (JavaFX)  
 This project implements a system for managing and searching seasonal workers.  
 👉 [repository](https://github.com/Shalafi01/javafx-TalentView)
