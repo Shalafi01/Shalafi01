@@ -19,7 +19,7 @@ Client-server chat application with AES, DES, and 3DES encryption.
 👉 [repository](https://github.com/andrea97/encrypted-messenger-java)
 <br><br>  
 ## 🔧 Other projects
-<br>
+
 ### ☕ Java
 
 java-ContactBook
