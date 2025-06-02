@@ -1,13 +1,13 @@
 # 👋 Ciao! I'm Nicola!
-Benvenuto nel mio spazio GitHub. Sul mio profilo carico progetti indipendenti che sviluppo per approfondire le mie conoscenze.
+Welcome to my GitHub space. On my profile, I upload independent projects that I develop to deepen my knowledge.
 
-# 🔧 Progetti Principali
+# 🔧 Main Projects
 
 ## 🛡️ Encrypted Messenger (Java)
-Applicazione chat client-server con crittografia AES, DES e 3DES.  
+Client-server chat application with AES, DES, and 3DES encryption.
 👉 [repository](https://github.com/andrea97/encrypted-messenger-java)
 
-# 🔧 Altri progetti
+# 🔧 Other projects
 
 ## 🌐 Web App
 
