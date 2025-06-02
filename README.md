@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Nicola
+# 👋 Ciao! I'm Nicola!
 Benvenuto nel mio spazio GitHub. Sul mio profilo carico progetti indipendenti che sviluppo per approfondire le mie conoscenze.
 
 ## 🔧 Progetti Principali
@@ -18,7 +18,6 @@ A simple checklist web app built with HTML, CSS, and JavaScript.
 🖥️ js-motherboard
 An interactive view helpful to understand and get to know a motherboard in all of its parts.
 👉 [repository](https://github.com/Shalafi01/js-motherboard)
-
 
 ---
 
