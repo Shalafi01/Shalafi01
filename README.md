@@ -21,6 +21,7 @@ Client-server chat application with AES, DES, and 3DES encryption.
 ## 🔧 Other projects
 <br>
 ### ☕ Java
+
 java-ContactBook
 This Java Swing application provides a basic address book functionality, allowing users to add, view, search, and remove contacts.  
 👉 [repository](https://github.com/Shalafi01/java-ContactBook)
