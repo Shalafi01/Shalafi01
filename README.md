@@ -13,19 +13,19 @@ Client-server chat application with AES, DES, and 3DES encryption.
 
 ### java-ContactBook
 This Java Swing application provides a basic address book functionality, allowing users to add, view, search, and remove contacts.
-[https://github.com/Shalafi01/java-ContactBook](https://github.com/Shalafi01/java-ContactBook)
+👉 [repository](https://github.com/Shalafi01/java-ContactBook)
 
 ### java-quickRename
 Quick Rename is a simple Java Swing application designed to help you efficiently rename multiple files within a selected directory.
-[https://github.com/Shalafi01/java-quickRename](https://github.com/Shalafi01/java-quickRename)
+👉 [repository](https://github.com/Shalafi01/java-quickRename)
 
 ### java-quickFinder
 This Java Swing application helps you quickly find differences between the files in two selected directories.
-[https://github.com/Shalafi01/java-quickFinder](https://github.com/Shalafi01/java-quickFinder)
+👉 [repository](https://github.com/Shalafi01/java-quickFinder)
 
 ### java-quickTextEdit
 This is a simple Java Swing application designed to help you quickly clean up and format text.
-[https://github.com/Shalafi01/java-quickTextEdit](https://github.com/Shalafi01/java-quickTextEdit)
+👉 [repository](https://github.com/Shalafi01/java-quickTextEdit)
 
 ## 🌐 Web App
 
