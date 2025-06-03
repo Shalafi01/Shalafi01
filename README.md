@@ -59,7 +59,7 @@ A simple console-based Contacts application written in C#.
 👉 [repository](https://github.com/Shalafi01/csharp-ContactBook)  
 <br>
 
-### 🅒 C Projects
+### 🧠 C Projects
 SystemV-Tris
 A terminal-based implementation of the classic Tic-Tac-Toe game built in C using System V IPC mechanisms.  
 👉 [repository](https://github.com/Shalafi01/c-SystemV-Tris)  
