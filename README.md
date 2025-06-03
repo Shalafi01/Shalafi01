@@ -26,32 +26,44 @@ ContactBook
 This Java Swing application provides a basic address book functionality, allowing users to add, view, search, and remove contacts.  
 👉 [repository](https://github.com/Shalafi01/java-ContactBook)
 <br><br>  
+
 quickRename  
 Quick Rename is a simple Java Swing application designed to help you efficiently rename multiple files within a selected directory.  
 👉 [repository](https://github.com/Shalafi01/java-quickRename)
 <br><br>  
+
 quickFinder  
 This Java Swing application helps you quickly find differences between the files in two selected directories.  
 👉 [repository](https://github.com/Shalafi01/java-quickFinder)
 <br><br>  
+
 quickTextEdit  
 This is a simple Java Swing application designed to help you quickly clean up and format text.  
 👉 [repository](https://github.com/Shalafi01/java-quickTextEdit)
 <br><br>  
+
 ### 🌐 Web Apps
 checklist  
 A simple checklist web app built with HTML, CSS, and JavaScript.  
 👉 [repository](https://github.com/Shalafi01/js-checklist)
 <br><br>  
+
 motherboard  
 An interactive view helpful to understand and get to know a motherboard in all of its parts.  
 👉 [repository](https://github.com/Shalafi01/js-motherboard)
 <br><br>  
-### 🧩 C#
 
+### 🧩 C# Projects
 ContactBook
 A simple console-based Contacts application written in C#.  
 👉 [repository](https://github.com/Shalafi01/csharp-ContactBook)  
+<br><br>
+
+### 🅒 C Projects
+SystemV-Tris
+A terminal-based implementation of the classic Tic-Tac-Toe game built in C using System V IPC mechanisms.
+👉 [repository](https://github.com/Shalafi01/c-SystemV-Tris)  
+<br><br>
 
 ---
 
