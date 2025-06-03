@@ -57,11 +57,11 @@ An interactive view helpful to understand and get to know a motherboard in all o
 ContactBook
 A simple console-based Contacts application written in C#.  
 👉 [repository](https://github.com/Shalafi01/csharp-ContactBook)  
-<br><br>
+<br>
 
 ### 🅒 C Projects
 SystemV-Tris
-A terminal-based implementation of the classic Tic-Tac-Toe game built in C using System V IPC mechanisms.
+A terminal-based implementation of the classic Tic-Tac-Toe game built in C using System V IPC mechanisms.  
 👉 [repository](https://github.com/Shalafi01/c-SystemV-Tris)  
 <br><br>
 
