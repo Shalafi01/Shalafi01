@@ -2,16 +2,16 @@
 Welcome to my GitHub space! Here, I share independent projects I develop to explore and deepen my knowledge.
 
 # Table of Contents
-- [🔧 Main Projects](#-main-projects)
+- [🛠️ Main Projects](#-main-projects)
 - [🔧 Other projects](#-other-projects)
   - [☕ Java](#-java)
   - [🌐 Web Apps](#-web-apps)
   - [🧩 C# Projects](#-c-projects)
   - [🧠 C Projects](#-c-projects-1)
-- [Code Statistics](#code-statistics)
+- [🧮 Code Statistics](#code-statistics)
 - [📫 Contacts](#-contacts)
 
-## 🔧 Main Projects
+## 🛠️ Main Projects
 🎬 Movie Database (Web App)  
 This project allows users to browse and search for movies in a clean, responsive interface.  
 👉 [repository](https://github.com/Shalafi01/php-MovieDatabase)
@@ -80,7 +80,7 @@ Simple car dashboard menu system implemented in C and Assembly.
 👉 [repository](https://github.com/Shalafi01/asm-car-dashboard/)  
 <br><br>
 
-## Code Statistics
+## 🧮 Code Statistics
 <img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 700px;"/>
 
 ## 📫 Contacts
