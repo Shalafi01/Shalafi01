@@ -3,7 +3,7 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
 
 # Table of Contents
 - [🛠️ Main Projects](#-main-projects)
-- [🔧 Other projects](#-other-projects)
+- [🔧 Other Projects](#-other-projects)
   - [☕ Java](#-java)
   - [🌐 Web Apps](#-web-apps)
   - [🧩 C# Projects](#-c-projects)
