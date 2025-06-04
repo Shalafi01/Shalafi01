@@ -65,9 +65,9 @@ A terminal-based implementation of the classic Tic-Tac-Toe game built in C using
 👉 [repository](https://github.com/Shalafi01/c-SystemV-Tris)  
 <br>
 
-car-dashboard
-Simple car dashboard menu system implemented in C and Assembly.
-👉 [repository](https://github.com/Shalafi01/asm-car-dashboard/)
+car-dashboard  
+Simple car dashboard menu system implemented in C and Assembly.  
+👉 [repository](https://github.com/Shalafi01/asm-car-dashboard/)  
 <br><br>
 
 ---
