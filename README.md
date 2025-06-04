@@ -2,7 +2,6 @@
 Welcome to my GitHub space! Here, I share independent projects I develop to explore and deepen my knowledge.
 
 # Table of Contents
-- [👋 Ciao, I'm Nicola](#-ciao-im-nicola)
 - [🔧 Main Projects](#-main-projects)
 - [🔧 Other projects](#-other-projects)
   - [☕ Java](#-java)
