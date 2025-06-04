@@ -8,7 +8,7 @@ Welcome to my GitHub space! Here, I share independent projects I develop to expl
   - [🌐 Web Apps](#-web-apps)
   - [🧩 C# Projects](#-c-projects)
   - [🧠 C Projects](#-c-projects-1)
-- [🧮 Code Statistics](#code-statistics)
+- [🧮 Code Statistics](#-code-statistics)
 - [📫 Contacts](#-contacts)
 
 ## 🛠️ Main Projects
