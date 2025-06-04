@@ -63,6 +63,11 @@ A simple console-based Contacts application written in C#.
 SystemV-Tris
 A terminal-based implementation of the classic Tic-Tac-Toe game built in C using System V IPC mechanisms.  
 👉 [repository](https://github.com/Shalafi01/c-SystemV-Tris)  
+<br>
+
+car-dashboard
+Simple car dashboard menu system implemented in C and Assembly.
+👉 [repository](https://github.com/Shalafi01/asm-car-dashboard/)
 <br><br>
 
 ---
