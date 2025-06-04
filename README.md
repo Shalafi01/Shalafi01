@@ -1,6 +1,17 @@
-## 👋 Ciao, I'm Nicola  
+# 👋 Ciao, I'm Nicola  
 Welcome to my GitHub space! Here, I share independent projects I develop to explore and deepen my knowledge.
-<br><br>  
+
+# Table of Contents
+- [👋 Ciao, I'm Nicola](#-ciao-im-nicola)
+- [🔧 Main Projects](#-main-projects)
+- [🔧 Other projects](#-other-projects)
+  - [☕ Java](#-java)
+  - [🌐 Web Apps](#-web-apps)
+  - [🧩 C# Projects](#-c-projects)
+  - [🧠 C Projects](#-c-projects-1)
+- [Code Statistics](#code-statistics)
+- [📫 Contacts](#-contacts)
+
 ## 🔧 Main Projects
 🎬 Movie Database (Web App)  
 This project allows users to browse and search for movies in a clean, responsive interface.  
@@ -70,9 +81,10 @@ Simple car dashboard menu system implemented in C and Assembly.
 👉 [repository](https://github.com/Shalafi01/asm-car-dashboard/)  
 <br><br>
 
----
+## Code Statistics
+<img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 700px;"/>
 
-# 📫 Contacts
+## 📫 Contacts
 
 - Email: tomasoni.nicola@gmail.com
 - LinkedIn: [linkedin.com/in/nicola-tomasoni-609bb0198/](https://www.linkedin.com/in/nicola-tomasoni-609bb0198/)
